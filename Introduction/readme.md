@@ -25,3 +25,7 @@ Today, the Node.js community is thriving with numerous conferences and events he
 ---
 
 Node.js continues to grow and evolve, supported by a strong foundation and a vibrant community. Whether you're new to Node.js or an experienced developer, its history and ongoing development offer a fascinating glimpse into one of the most influential tools in modern web development.
+
+## Installing Node 📐
+
+To download node.js you can click this [link](https://nodejs.org/en/download/package-manager). After downloading the node.js for your operating system install it and you are ready to go. You can verify the installation process by typing `node -v` into the terminal. Also check for node package manager using `npm -v`.
