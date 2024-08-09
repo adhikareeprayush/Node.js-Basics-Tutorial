@@ -1,4 +1,4 @@
-# Node.js Baics Turotrial
+# Node.js Basics Tutorial
 
 Welcome to my Node.js learning repository! This project contains various scripts and modules that I've developed while exploring and learning about Node.js. The repository is structured into four main folders, each focusing on different aspects of Node.js.
 
